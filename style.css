@@ -1,20 +1,28 @@
 body{
-    background-color:#6bc6d5
+    background-color:#6bc6d5;
+    font-family: 'EB Garamond', serif;
 }
 
 .head{
     color:#009BB8;
     font-size:5vh;
+    width:570PX;
     text-align:center;
+    margin: 0 auto;
+    padding:20px 2px 20px 2px;
     background-color:#e2f0f2;
 }
 
 .joonghyuk{
     color:#009BB8;
+    text-align:center;
+    margin:0 auto;
 }
 .sooyoung{
     color:#009BB8;
+    text-align:center;
 }
 .dokja{
     color:#009BB8;
+    text-align:center;
 }
