@@ -5,7 +5,7 @@ body{
 
 .head{
     color:#009BB8;
-    font-size:5vh;
+    font-size:5vp;
     width:570PX;
     text-align:center;
     margin: 0 auto;
@@ -15,14 +15,32 @@ body{
 
 .joonghyuk{
     color:#009BB8;
+    background-color: #9ee3f0;
     text-align:center;
     margin:0 auto;
+    padding:3px 3px;
+    width:570px;
+    height:150px;
 }
 .sooyoung{
     color:#009BB8;
+    background-color: #9ee3f0;
     text-align:center;
+    margin:0 auto;
+    padding:3px 3px;
+    width:570px;
+    height:150px;
 }
 .dokja{
     color:#009BB8;
+    background-color: #9ee3f0;
     text-align:center;
+    margin:0 auto;
+    padding:3px 3px;
+    width:570px;
+    height:150px;
+}
+
+#yjh{
+    background-color:#e2f0f2;
 }
